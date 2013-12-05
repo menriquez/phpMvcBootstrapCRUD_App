@@ -1,2 +1,5 @@
-*This is a example to create a modern web applition for CRUD operation by using MVC design�pattern,��PDO extension, Jquery and Twitter Bootstrap.
-uisng JSON as�data-interchange format for HTTP request and response.*
+####This is a representitive PHP/MySQL program to create a modern web applition demoing CRUD operations by using a MVC design pattern, PDO, Jquery and Bootstrap.
+
+It uses JSON and AJAX as a data-interchange format between the jQuery and database, and simulates a REST server request when asking for the actual "credit score".
+
+You can see the app run <a href="http://markenriquez.tekcities.com/credadd">here</a>.
