@@ -6,7 +6,6 @@ You can see the app run <a href="http://markenriquez.tekcities.com/credadd">here
 
 
 ##FOREX FACTORY CREDIT APP CRUD Sample
-##------------------------------------
 
 This is a example to create a application for CRUD by using MVC design pattern,PDO extension, Jquery and Twitter Bootstrap using JSON as data-interchange format for HTTP request and response.
 
